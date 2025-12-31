@@ -5,7 +5,7 @@ In this post, we are going to teach you how to run the TeamSpeak 3 client progra
 ---
 ![TS3](ts-share-image2.jpg)
 
-# Setup 1: Where to download? 📦
+# Setup 1: Where to download? 📦📥
 ![Click To Download](https://www.teamspeak.com/en/downloads/#ts3client)
 and select linux version to download .run file
 
@@ -34,18 +34,18 @@ bash ts3client_runscript.sh # run ts3
 
 ```
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-# Alert:Of course, I will include a script in this post: a script called (installts.sh), which is for automatic installation if you keep the run file in the downloads folder, and a script for execution called (ts3.sh), which you can run whenever you need to. You can enter the TeamSpeak client by just running a script.
+# ‼️Alert:Of course, I will include a script in this post: a script called (installts.sh), which is for automatic installation if you keep the run file in the downloads folder, and a script for execution called (ts3.sh), which you can run whenever you need to. You can enter the TeamSpeak client by just running a script.
 
 ---
 
-# Warning: When running the installation script, make sure that the file exists in the downloads folder, otherwise Go into the installts.sh script and change this part Otherwise, you can install it manually according to the instructions above.
+# ⚠️Warning: When running the installation script, make sure that the file exists in the downloads folder, otherwise Go into the installts.sh script and change this part Otherwise, you can install it manually according to the instructions above.
 
 ```bash
 cd Downloads
     # Rename the downloads and replace them with the path to the folder where the .run file is located.
 ```
 ---
-# How to run Installation Script
+# How to run Installation Script 💻
 ![Click](https://github.com/GodFather850/How-to-install-and-run-TeamSpeak3Client-In-Ubuntu-Debian-/archive/refs/heads/main.zip)
 to Download Scripts
 ```bash
@@ -61,7 +61,7 @@ bash ts3.sh
 ```
 ---
 
-# Create Command For Easy Open TS3 Client (Optional)
+# Create Command For Easy Open TS3 Client (Optional) ✅️<\>
 ```bash
 
 nano ~/.bashrc
