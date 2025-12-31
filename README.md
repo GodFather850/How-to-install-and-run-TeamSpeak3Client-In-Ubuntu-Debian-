@@ -61,7 +61,7 @@ bash ts3.sh
 ```
 ---
 
-# Create Command For Easy Open TS3 Client (Optional) ✅️<\>
+# Create Command For Easy Open TS3 Client (Optional) ✅️👨‍💻
 ```bash
 
 nano ~/.bashrc
