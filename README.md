@@ -46,6 +46,33 @@ cd Downloads
 ```
 ---
 # How to run Installation Script
+![Click](https://github.com/GodFather850/How-to-install-and-run-TeamSpeak3Client-In-Ubuntu-Debian-/archive/refs/heads/main.zip)
+to Download Scripts
+```bash
+# Go to the path where the zip file was downloaded And Open File
+
+chmod +x installts.sh
+bash installts.sh
+
+# Run File
+
+chmod +x ts3.sh
+bash ts3.sh
+```
+---
+
+# Create Command For Easy Open TS3 Client
+```bash
+
+nano ~/.bashrc
+
+# Go to the end of the script and enter this command
+
+# alias ts='The path where the file ts3.sh exists'
+
+```
+
+note: If you want, you can replace ts with anything you want for your command.
 
 ---
 
