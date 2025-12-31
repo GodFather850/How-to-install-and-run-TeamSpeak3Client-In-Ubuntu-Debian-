@@ -7,8 +7,7 @@ In this post, we are going to teach you how to run the TeamSpeak 3 client progra
 
 # Setup 1: Where to download? 📦
 ![Click To Download](https://www.teamspeak.com/en/downloads/#ts3client)
-
-Click and select linux version to download .run file
+and select linux version to download .run file
 
 ---
 # Setup 2: How To Install and run? 🔧▶️
