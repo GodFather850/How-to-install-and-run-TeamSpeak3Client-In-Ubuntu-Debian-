@@ -61,14 +61,14 @@ bash ts3.sh
 ```
 ---
 
-# Create Command For Easy Open TS3 Client
+# Create Command For Easy Open TS3 Client (Optional)
 ```bash
 
 nano ~/.bashrc
 
 # Go to the end of the script and enter this command
 
-# alias ts='The path where the file ts3.sh exists'
+alias ts='#The path where the file ts3.sh exists'
 
 ```
 
