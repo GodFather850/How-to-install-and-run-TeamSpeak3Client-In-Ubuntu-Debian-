@@ -7,6 +7,7 @@ In this post, we are going to teach you how to run the TeamSpeak 3 client progra
 
 # Setup 1: Where to download? 📦
 ![Click To Download](https://www.teamspeak.com/en/downloads/#ts3client)
+
 Click and select linux version to download .run file
 
 ---
@@ -33,7 +34,7 @@ ls -1 # Search To Script  (ts3client_runscript.sh)
 bash ts3client_runscript.sh # run ts3
 
 ```
-
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 # Alert:Of course, I will include a script in this post: a script called (installts.sh), which is for automatic installation if you keep the run file in the downloads folder, and a script for execution called (ts3.sh), which you can run whenever you need to. You can enter the TeamSpeak client by just running a script.
 
 ---
