@@ -17,7 +17,7 @@ for load in {1..5}; do
     sleep 0.3
     clear
 done
-
+cd
 cd opt
 bash ts3client_runscript.sh
 
